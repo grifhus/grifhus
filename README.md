@@ -1,10 +1,10 @@
 <h1 align="center">👨‍💻Hi 👋, I'm David Julian</h1>
-<h3 align="center">Frontend JavaScript Web Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 <h4 align="center">A passionate developer from Colombia</h4></br>
 
 - ✅ Open to work
 - 🧑‍🤝‍🧑 Looking to collaborate on anything!
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning JavaScript, Nodejs
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/david-julian-jaramillo-a10a832b/">LinkedIn </a>
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/grifhus">Frontend Mentor! </a>
 <hr>
@@ -24,7 +24,7 @@
 
   <a href="https://github.com/grifhus">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="figma" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
  <!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> --->
 
   </p>
