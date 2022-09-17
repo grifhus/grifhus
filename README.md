@@ -3,9 +3,11 @@
 <h4 align="center">A passionate developer from Colombia</h4></br>
 
 - ✅ Open to work
+- 🧑‍🤝‍🧑 Looking to collaborate on anything!
 - 🌱 I’m currently learning **React**
-- 📫 How to reach me **davidjulianjaramillo@gmail.com**
-<h2></h2>
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/david-julian-jaramillo-a10a832b/">LinkedIn </a>
+- 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/grifhus">Frontend Mentor! </a>
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <p align="left">   
