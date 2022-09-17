@@ -3,6 +3,7 @@
 <h4 align="center">A passionate developer from Colombia</h4></br>
 
 - ✅ Open to work
+- 🔭 I’m currently working on Myself
 - 🧑‍🤝‍🧑 Looking to collaborate on anything!
 - 🌱 I’m currently learning JavaScript, Nodejs
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/david-julian-jaramillo-a10a832b/">LinkedIn </a>
