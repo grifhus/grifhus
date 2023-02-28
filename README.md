@@ -1,8 +1,9 @@
 <h1 align="center">👨‍💻Hi 👋, I'm David Julian</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Frontend Web Developer - RPA Developer</h3>
 <h4 align="center">A passionate developer from Colombia</h4></br>
 
 - ✅ Open to work
+- 🏠👨‍💻 <a href="https://www.100digital.com.co/">100DIGITAL </a>
 - 🔭 I’m currently working on Myself
 - 🧑‍🤝‍🧑 Looking to collaborate on anything!
 - 🌱 I’m currently learning React, Nodejs
