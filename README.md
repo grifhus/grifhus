@@ -1,33 +1,49 @@
 <h1 align="center">👨‍💻Hi 👋, I'm David Julian</h1>
-<h3 align="center">Frontend Web Developer - RPA Developer</h3>
+<h3 align="center">Web Developer - RPA Developer</h3>
 <h4 align="center">A passionate developer from Colombia</h4></br>
 
 - ✅ Open to work
 - 🏠👨‍💻 <a href="https://www.100digital.com.co/">100DIGITAL </a>
 - 🔭 I’m currently working on Myself
 - 🧑‍🤝‍🧑 Looking to collaborate on anything!
-- 🌱 I’m currently learning React, Nodejs
+- 🌱 I’m currently learning PostgreSQL
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/david-julian-jaramillo-a10a832b/">LinkedIn </a>
-- 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/grifhus">Frontend Mentor! </a>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <div>
 <p align="left">   
 <a href="https://github.com/grifhus">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  alt="express" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"   alt="sqlite" width="40" height="40" />
+
+
+  
+          
+
+</div>
+  <h3 align="left">Tools:</h3>
+  <div>
+<p align="left">   
+<a href="https://github.com/grifhus">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
+
+
 </div>
   <h3 align="left">Learning:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40" />
 
   <a href="https://github.com/grifhus">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
+
 
 
   </p>
