@@ -1,42 +1,74 @@
-<h1 align="center">👨‍💻 Hi 👋, I'm David Julian</h1>
-<h3 align="center">Full-stack Developer (Backend: Node.js, Express | Frontend: React, Tailwind | Databases: MongoDB, MySQL, PostgreSQL)</h3>
-<h4 align="center">💡 Passionate about building efficient web applications and creating Python automation tools</h4>
-<br>
+<h1 align="center">👋 Hi, I'm David Julian</h1>
+<h3 align="center">💻 Full-Stack Developer | Node.js • Express • React • Tailwind • TypeScript • MongoDB • MySQL • PostgreSQL</h3>
 
-- ✅ Open to work  
-- 🏠 Current company: <a href="https://www.100digital.com.co/">100DIGITAL</a>  
-- 🔭 I’m currently working on myself and improving my skills  
-- 🧑‍🤝‍🧑 Looking to collaborate on interesting projects  
-- 📫 Connect with me on <a href="https://www.linkedin.com/in/david-julian-jaramillo-a10a832b/">LinkedIn</a>
-
-<hr>
-
-<h3 align="left">Languages & Frameworks:</h3>
-<p align="left">   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<p align="center">
+  <em>🚀 Passionate about building scalable web applications and creating smart automation tools with Python.</em>
 </p>
 
-<h3 align="left">Tools & Platforms:</h3>
+---
+
+### 👨‍💼 About Me
+
+- 💼 Currently working at [100DIGITAL](https://www.100digital.com.co/)  
+- 🧠 Focused on improving my backend architecture and system design skills  
+- 🤝 Open to collaborate on innovative web and automation projects  
+- 🌱 Constantly learning, improving, and building  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/david-julian-jaramillo-a10a832b/)
+
+---
+
+### 🧠 Tech Stack
+
+#### 🧩 Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,ts,fastapi" height="45" alt="Node.js, Express, Python, TypeScript, FastAPI" title="Node.js, Express, Python, TypeScript, FastAPI"/>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
+
+#### 🎨 Frontend
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grifhus&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,bootstrap" height="45" alt="HTML5, CSS3, JS, React, TailwindCSS, TypeScript, Bootstrap" title="HTML5, CSS3, JS, React, TailwindCSS, TypeScript, Bootstrap"/>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="45" alt="MySQL, PostgreSQL" title="MySQL, PostgreSQL"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" height="45" alt="Mongoose" title="Mongoose"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,sequelize" height="45" alt="MongoDB, Sequelize" title="MongoDB, Sequelize"/>
+</p>
+
+
+#### 🧰 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman" height="45" alt="Git, GitHub, Docker, VSCode, Figma, Postman" title="Git, GitHub, Docker, VSCode, Figma, Postman"/>
+</p>
+
+#### ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,render,cloudflare,dokploy" height="45" alt="Vercel, Render, Cloudflare, Dokploy" title="Vercel, Render, Cloudflare, Dokploy"/>
+</p>
+
+---
+
+### 🔭 Currently Learning / Familiar With
+<p align="left">
+- Next.js (Server-side rendering / SSR)  
+- CI/CD pipelines (GitHub Actions)  
+- AWS Lambda & Serverless functions  
+- Testing frameworks: Jest, React Testing Library, Supertest  
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grifhus&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🌐 Let’s Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-julian-jaramillo-a10a832b/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="mailto:davidjulianjaramillo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" title="Email"/></a>
 </p>
