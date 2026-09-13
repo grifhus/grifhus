@@ -1,98 +1,81 @@
-<h1 align="center">👋 Hi, I'm David Julian</h1>
-<h3 align="center">💻 Full-Stack Developer & AI Agent Engineer | Node.js • NestJS • Express • React • Tailwind • TypeScript • Databases • GCP</h3>
+<h1 align="center">👋 Hi, I'm David Julian Jaramillo</h1>
+<h3 align="center">💻 Software Developer Backend & Fullstack | Python • FastAPI • Node.js • NestJS • TypeScript • PostgreSQL • Docker</h3>
 
 <p align="center">
-  <em>🚀 Passionate about building scalable web applications and creating smart automation tools with Python & Generative AI.</em>
+  <em>🚀 Passionate about building scalable microservices, event-driven backend architectures, and high-performance cloud applications.</em>
 </p>
 
 ---
 
 ### 👨‍💼 About Me
 
-- 💼 Currently working at [100DIGITAL](https://www.100digital.com.co/)  
-- 🎯 **Focus 2026:** Specializing in AI Agent Engineering (Vertex AI, Gemini, ADK)  
-- 🧠 Focused on improving my backend architecture and system design skills  
-- 🤝 Open to collaborate on innovative web and automation projects  
-- 🌱 Constantly learning, improving, and building  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/david-julian-jaramillo-a10a832b/)
+- 💼 Currently Software Developer at [100DIGITAL](https://www.100digital.com.co/)  
+- 🎯 **Focus 2026:** Specializing in Backend Architecture, Event-Driven Systems & AI Agent Engineering (Vertex AI, Gemini, ADK)  
+- 🧠 Focused on microservices resilience, async queues (BullMQ/Redis), and system design  
+- 🤝 Open to collaborate on innovative backend and automation projects  
+- 🌱 Constantly learning, improving, and building scalable software  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/david-julian-jaramillo/)
 
 ---
 
 ### 🧠 Tech Stack
 
-#### 🧩 Backend
+#### 🧩 Backend & Architecture
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,ts,fastapi" height="45" alt="Node.js, Express, NestJS, Python, TypeScript, FastAPI" title="Node.js, Express, NestJS, Python, TypeScript, FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,express,ts" height="45" alt="Python, FastAPI, Node.js, NestJS, Express, TypeScript" title="Python, FastAPI, Node.js, NestJS, Express, TypeScript"/>
 </p>
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts,bootstrap" height="45" alt="HTML5, CSS3, JS, React, Next.js, TailwindCSS, TypeScript, Bootstrap" title="HTML5, CSS3, JS, React, Next.js, TailwindCSS, TypeScript, Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts" height="45" alt="React, Next.js, TailwindCSS, HTML5, CSS3, JS, TypeScript" title="React, Next.js, TailwindCSS, HTML5, CSS3, JS, TypeScript"/>
 </p>
 
-#### 🗄️ Databases
+#### 🗄️ Databases & Caching
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="45" alt="MySQL, PostgreSQL" />
-  <img src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" height="45" alt="Mongoose" title="Mongoose" />
-  <img src="https://skillicons.dev/icons?i=mongodb,sequelize,redis" height="45" alt="MongoDB, Sequelize, Redis" title="MongoDB, Sequelize, Redis" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,redis,mongodb" height="45" alt="PostgreSQL, SQLite, Redis, MongoDB" title="PostgreSQL, SQLite, Redis, MongoDB" />
 </p>
 
 #### 🧰 Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman" height="45" alt="Git, GitHub, Docker, VSCode, Figma, Postman" title="Git, GitHub, Docker, VSCode, Figma, Postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="45" alt="Git, GitHub, Docker, Postman, VSCode" title="Git, GitHub, Docker, Postman, VSCode"/>
 </p>
 
 #### ☁️ Cloud & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,render,cloudflare,dokploy" height="45" alt="GCP, Vercel, Render, Cloudflare, Dokploy" title="GCP, Vercel, Render, Cloudflare, Dokploy"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,dokploy,gcp,vercel" height="45" alt="Cloudflare, Dokploy, GCP, Vercel" title="Cloudflare, Dokploy, GCP, Vercel"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects (AI & Automation)
+### 🚀 Featured Projects
 
-#### 💬 Asistente de Pedidos Inteligente (Pollos Claudio)
-Monorepo con arquitectura NestJS + Next.js + SQLite que automatiza la toma de pedidos a través de WhatsApp.
-*   **Gestión de Mensajería Anti-Ban:** Integración de **BullMQ + Redis** para encolar el despacho saliente con rate-limit de 1 mensaje cada 3 segundos y simulación de digitación humana (`'composing'`).
-*   **Resolución JID/LID en Baileys:** Lógica en caliente (`sock.onWhatsApp`) y caché para evitar la pérdida de mensajes debida a la discrepancia de identificadores.
-*   **KDS & CRM:** Tablero Kanban de cocina interactivo con updates reactivos mediante WebSockets y autoregistro en CRM.
+#### 🌐 Enterprise ERP & Multitenant Integration Gateway
+API RESTful multitenant asíncrona construida sobre FastAPI y Docker para la orquestación de datos contables y comprobantes masivos con SAP S/4HANA Cloud.
+* **Arquitectura Asíncrona:** Procesamiento en segundo plano (HTTP 202 Accepted) mediante `BackgroundTasks` y enrutamiento dinámico por cliente.
+* **Motor de Conciliación $O(1)$:** Algoritmo defensivo de cruce e inspección XML UBL 2.1 para facturación electrónica exenta/excluida con 100% de efectividad contable.
 
-#### 🌸 Asistente de Salud Omnicanal (Rocita)
-Dashboard clínico integrado con un bot de confirmación de citas y alertas en tiempo real.
-*   **Fallback en Cascada:** Envío automatizado por WhatsApp con fallback automático a SMS y llamadas de voz procesadas por IA en caso de fallo.
-*   **SQLite Aggregations:** Generación en NestJS de reportes financieros y distribución semanal calculados directamente en base de datos.
+#### 📈 FinTech Suite (Plataforma Micro-SaaS Financiera)
+Constelación de 5 aplicaciones web distribuidas (`tasasclaras.com`, `pensionclara.com`, etc.) sobre Next.js (App Router), PostgreSQL (v18) y caché Edge en Cloudflare.
+* **Rendimiento & SEO AEO:** Latencia de servidor < 50ms y marcado estructurado JSON-LD completo optimizado para motores de búsqueda de IA.
 
-#### 📄 Extractor de Facturas PDF
-Script modular en Python para digitalización estructurada de facturas de proveedores.
-*   **Precisión DIAN:** Lógica basada en expresiones regulares y offsets relativos para extraer datos demográficos de pacientes y médicos.
+#### 🌸 Omnichannel Clinical Management Core (Rocita IPS)
+Backend modular de gestión clínica construido en NestJS, TypeScript, TypeORM y SQLite.
+* **Asincronía & Fallback:** Gestión de eventos y notificaciones omnicanal con colas **BullMQ + Redis**, autenticación JWT/Bcrypt y sincronización en tiempo real vía WebSockets.
 
 ---
 
 ### 🏆 Verifiable Certifications (Google Cloud / GenAI)
 
-*   🎓 **Develop GenAI Apps with Gemini and Streamlit** (Skill Badge) | [Ver Credencial](https://www.credly.com/badges/10cca22b-6bba-40f9-b381-df7aff75a366)
-*   🛡️ **Introduction to AI Agents** & **Build Agents with ADK** (Google Cloud Course Certificates)
-*   🚀 **MLOps for Generative AI** (Google Cloud Course Certificate)
-
----
-
-### 🔭 Currently Learning / Familiar With
-
-- Vertex AI Studio & Search (Enterprise RAG)
-- Next.js (Server-side rendering / SSR)  
-- CI/CD pipelines (GitHub Actions)  
-- AWS Lambda & Serverless functions  
-- Testing frameworks: Jest, React Testing Library, Supertest  
-
----
-
+* 🎓 **Develop GenAI Apps with Gemini and Streamlit** (Skill Badge) | [Ver Credencial](https://www.credly.com/badges/10cca22b-6bba-40f9-b381-df7aff75a366)
+* 🛡️ **Introduction to AI Agents** & **Build Agents with ADK** (Google Cloud Course Certificates)
+* 🚀 **MLOps for Generative AI** (Google Cloud Course Certificate)
 
 ---
 
 ### 🌐 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-julian-jaramillo-a10a832b/" target="_blank">
+  <a href="https://www.linkedin.com/in/david-julian-jaramillo/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="mailto:davidjulianjaramillo@gmail.com">
